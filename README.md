@@ -3,7 +3,6 @@
 **Features**  
 - Dynamic input: you specify how many numbers to use and the calculator encodes that count before performing the operation.  
 - Multiple operations: sum, subtraction, multiplication and division with N values.  
-- Instant result: after receiving the values, it performs the calculation and shows the result immediately.  
 
 ---
 
