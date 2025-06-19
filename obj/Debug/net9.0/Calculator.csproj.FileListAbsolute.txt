@@ -1,0 +1,14 @@
+C:\Users\leleco\Desktop\Programming\C#\Calculator\Calculator\bin\Debug\net9.0\Calculator.exe
+C:\Users\leleco\Desktop\Programming\C#\Calculator\Calculator\bin\Debug\net9.0\Calculator.deps.json
+C:\Users\leleco\Desktop\Programming\C#\Calculator\Calculator\bin\Debug\net9.0\Calculator.runtimeconfig.json
+C:\Users\leleco\Desktop\Programming\C#\Calculator\Calculator\bin\Debug\net9.0\Calculator.dll
+C:\Users\leleco\Desktop\Programming\C#\Calculator\Calculator\bin\Debug\net9.0\Calculator.pdb
+C:\Users\leleco\Desktop\Programming\C#\Calculator\Calculator\obj\Debug\net9.0\Calculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leleco\Desktop\Programming\C#\Calculator\Calculator\obj\Debug\net9.0\Calculator.AssemblyInfoInputs.cache
+C:\Users\leleco\Desktop\Programming\C#\Calculator\Calculator\obj\Debug\net9.0\Calculator.AssemblyInfo.cs
+C:\Users\leleco\Desktop\Programming\C#\Calculator\Calculator\obj\Debug\net9.0\Calculator.csproj.CoreCompileInputs.cache
+C:\Users\leleco\Desktop\Programming\C#\Calculator\Calculator\obj\Debug\net9.0\Calculator.dll
+C:\Users\leleco\Desktop\Programming\C#\Calculator\Calculator\obj\Debug\net9.0\refint\Calculator.dll
+C:\Users\leleco\Desktop\Programming\C#\Calculator\Calculator\obj\Debug\net9.0\Calculator.pdb
+C:\Users\leleco\Desktop\Programming\C#\Calculator\Calculator\obj\Debug\net9.0\Calculator.genruntimeconfig.cache
+C:\Users\leleco\Desktop\Programming\C#\Calculator\Calculator\obj\Debug\net9.0\ref\Calculator.dll
