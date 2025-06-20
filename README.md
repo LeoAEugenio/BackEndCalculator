@@ -6,6 +6,12 @@
 
 ---
 
+## Technologies
+
+- .NET (C#)  
+
+---
+
 ## Get Started
 
 1. Clone this repo:  
