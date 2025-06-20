@@ -16,7 +16,7 @@
 
 1. Clone this repo:  
    ```bash
-   git clone https://github.com/YourUsername/Calculator.git
+   git clone https://github.com/LeoAEugenio/Calculator.git
 
 2. Open in VS Code
 
